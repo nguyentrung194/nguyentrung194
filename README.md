@@ -2,7 +2,7 @@
 
 **TypeScript · Go · Python · Production AI systems** — Ho Chi Minh City, Vietnam
 
-I build products end to end: data model and APIs, the interface on top, deployment, and the AI layer in between. Right now I am lead developer on two production platforms: a B2B networking & CRM product with an in-app AI agent, and an e-commerce operations platform whose Node.js backend I moved to Go services route by route, without a big-bang rewrite.
+I build products end to end: data model and APIs, the interface on top, deployment, and the AI layer in between. Most recently I was lead developer on two production platforms: a B2B networking & CRM product with an in-app AI agent, and an e-commerce operations platform whose Node.js backend I moved to Go services route by route, without a big-bang rewrite.
 
 [Portfolio](https://trungnguyen200400.vercel.app/) · [CV (EN)](https://trungnguyen200400.vercel.app/api/cv?lang=en) · [CV (VI)](https://trungnguyen200400.vercel.app/api/cv?lang=vi) · [LinkedIn](https://linkedin.com/in/trung-nguyen-4b515a23b) · [Email](mailto:trungnguyen200400@gmail.com)
 
@@ -26,7 +26,7 @@ I build products end to end: data model and APIs, the interface on top, deployme
 
 ### Experience
 
-- **Conexa** — Fullstack Engineer, Lead Developer · 2025 – present
+- **Conexa** — Fullstack Engineer, Lead Developer · 2025 – 2026
 - **AZPLAYS** — Middle Full-Stack Developer · 2023 – 2025
 - **Hitek Group** — Middle Backend Developer · 2022 – 2023
 - **Maxlancer** — Frontend Developer Intern (2021 – 2022), Backend Developer Intern (2019 – 2020)
