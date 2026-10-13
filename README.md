@@ -1,6 +1,6 @@
-## Hi, I'm Trung — Fullstack Engineer
+## Hi, I'm Trung — Fullstack Developer
 
-**TypeScript · Go · Python · Production AI systems** — Ho Chi Minh City, Vietnam
+**Node.js · TypeScript · React · PostgreSQL** — Ho Chi Minh City, Vietnam · 🟢 **Open to work** (available now)
 
 I build products end to end: data model and APIs, the interface on top, deployment, and the AI layer in between. Most recently I was lead developer on two production platforms: a B2B networking & CRM product with an in-app AI agent, and an e-commerce operations platform whose Node.js backend I moved to Go services route by route, without a big-bang rewrite.
 
@@ -11,17 +11,17 @@ I build products end to end: data model and APIs, the interface on top, deployme
 | Project | What it shows | Links |
 |---|---|---|
 | **Multiplayer 3D browser game** | Server-authoritative Go game loop, one Protobuf schema for Go and TypeScript, mobile-first Babylon.js client, voice over WebSocket | [Play](https://game.beacon-hr.tech/) |
-| **NewEra agentic RAG** | Hand-written agent loop on the Claude Messages API, hybrid BM25 + vector retrieval with an evaluation harness, tools exposed over MCP | [Source](https://github.com/nguyentrung194/newera-agentic-rag-demo) |
-| **AI Connector** *(private code)* | In-app AI agent with 13 tools that reuses the app's own permission rules, provider failover and per-user budgets | [Case study](https://trungnguyen200400.vercel.app/en/projects/ai-connector-agent) |
-| **E-commerce operations platform** *(private code)* | Node.js → Go migration with shadow diffs and a parity runner, idempotent jobs, AI suggestions behind human approval | [Case study](https://trungnguyen200400.vercel.app/en/projects/ads-automation-go-microservices) |
+| **Realtime chat** *(private code)* | WebSocket chat service in Go for web and mobile, messages stored in PostgreSQL, push notifications when offline | [Case study](https://trungnguyen200400.vercel.app/en/projects/go-realtime-messaging) |
+| **AI Connector** *(private code)* | Agentic AI assistant (OpenAI, Claude) with 13 tools that uses the app's own permissions, on web and mobile | [Case study](https://trungnguyen200400.vercel.app/en/projects/ai-connector-agent) |
+| **E-commerce operations platform** *(private code)* | Shopee integration (orders, stock, ads, reports), admin console, Node.js backend upgraded to Go without downtime | [Case study](https://trungnguyen200400.vercel.app/en/projects/ads-automation-go-microservices) |
 
 ### Stack
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind
-- **Backend:** Node.js (NestJS, Express), Go, Python (FastAPI), REST, GraphQL, WebSocket
-- **Data:** PostgreSQL, Redis, pgvector, Kafka
-- **AI:** Claude & OpenAI APIs, tool use, structured output, MCP, RAG
-- **Ops:** Docker, Kubernetes, Linux, AWS, GitHub Actions, GitLab CI
+- **Frontend:** React, Next.js, TypeScript, Tailwind, MUI
+- **Backend:** Node.js (NestJS, Express), REST, GraphQL, WebSocket; experience with Go
+- **Data:** PostgreSQL, Supabase, Firebase, Redis, MongoDB
+- **AI:** OpenAI & Claude APIs, agentic AI (tool use), MCP
+- **Ops:** Docker, Linux, Nginx, AWS (basic), GitHub Actions, GitLab CI
 - **Daily tool:** Claude Code
 
 ### Experience
